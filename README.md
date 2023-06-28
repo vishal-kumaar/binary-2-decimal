@@ -1,5 +1,5 @@
 # ⭐ Project - Binary To Decimal ⭐
-🔗 [Project Link](https://binary-2-decimal-convertor.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/binary-2-decimal/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
